@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f7a0db5-78bc-47c6-9b12-a11bee4cf3f4" name="更改" comment="2024-8-31">
+    <list default="true" id="1f7a0db5-78bc-47c6-9b12-a11bee4cf3f4" name="更改" comment="2024-09-01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tools/new_daily.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/new_daily.py" afterDir="false" />
     </list>
@@ -35,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.I-back.executor": "Run",
-    "Python.new_daily.executor": "Run",
-    "Python.one.executor": "Run",
-    "Python.setup_python_library.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "init",
-    "last_opened_file_path": "D:/Program/Python project",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.I-back.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_daily.executor&quot;: &quot;Run&quot;,
+    &quot;Python.one.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setup_python_library.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;init&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Program/Python project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.new_daily">
     <configuration name="I-back" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python project" />
@@ -169,11 +169,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725111633257</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024-09-01">
+      <option name="closed" value="true" />
+      <created>1725157003261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725157003261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024-8-31" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-8-31" />
+    <MESSAGE value="2024-09-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-09-01" />
   </component>
 </project>

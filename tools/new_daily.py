@@ -1,7 +1,7 @@
 import os
 
 year = '2024'
-months = '08'
+months = '09'
 while True:
     data = input('输入日期')
     if int(data) < 10:
