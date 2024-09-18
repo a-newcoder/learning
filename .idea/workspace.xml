@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1f7a0db5-78bc-47c6-9b12-a11bee4cf3f4" name="更改" comment="2024-09-01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/new_daily.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/new_daily.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/I-back.py" beforeDir="false" afterPath="$PROJECT_DIR$/I-back.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.new_daily">
+  <component name="RunManager">
     <configuration name="I-back" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python project" />
       <option name="ENV_FILES" value="" />
@@ -138,8 +138,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.new_daily" />
         <item itemvalue="Python.I-back" />
+        <item itemvalue="Python.new_daily" />
         <item itemvalue="Python.setup_python_library" />
         <item itemvalue="Python.one" />
       </list>
@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725157003261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2024-09-01">
+      <option name="closed" value="true" />
+      <created>1726578502300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726578502300</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
